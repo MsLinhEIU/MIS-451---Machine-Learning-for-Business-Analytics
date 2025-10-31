@@ -3,7 +3,8 @@
 Welcome to the Machine Learning for Business course repository!
 This repository contains Python codes, and datasets used for demonstrations and assignments throughout the course.
 ______________________________________________________________________________________________________________________________________
-🧩 **Topics Covered **
+🧩 **Topics Covered**
+
 Each topic folder includes Python notebooks and datasets:
 1.	Data Exploration and Preparation
 2.	Regression using Supervised Learning
